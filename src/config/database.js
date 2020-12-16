@@ -1,6 +1,6 @@
  module.exports =  {
      dialect: 'mssql',
-     host: '192.168.0.104',
+     host: 'localhost',
      username: 'SQLAPI',
      password: 'SQLAPI',
      database: 'protheusteste',
